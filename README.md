@@ -15,8 +15,4 @@ Este projeto é uma landing page inspirada no Spotify, com o objetivo de demonst
 - **Bootstrap 4**: Framework CSS para garantir responsividade e design moderno.
 - **Font Awesome**: Ícones sociais e de navegação.
 
-## Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone git@github.com:nicolas-marques/jogo-campo-minado.git
+![Imagem do projeto](imagens/spf.png)
