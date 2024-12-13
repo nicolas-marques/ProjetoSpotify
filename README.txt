@@ -16,7 +16,7 @@ bash
 Copiar código
 git clone git@github.com:nicolas-marques/jogo-campo-minado.git
 Abra o arquivo index.html no seu navegador.
-![Imagem do projeto](imagens/spf.png)
+![Imagem do projeto](./spf.png)
 
 
 
